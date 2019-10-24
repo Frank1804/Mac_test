@@ -5,4 +5,4 @@ jobs:
       - image: circleci/ruby:2.4.2-jessie-node
     steps:
       - checkout
-      - run: echo "hello wooooooorld - This was the locally pushed version"
+      - run: echo "hello wooooooorld -It's not THAT bad. This was the locally pushed version"
