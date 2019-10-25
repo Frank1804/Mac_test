@@ -5,8 +5,4 @@ jobs:
       - image: circleci/ruby:2.4.2-jessie-node
     steps:
       - checkout
-<<<<<<< HEAD
       - run: echo "hello wooooooorld -The weather is not THAT bad. This was the locally created and pushed version"
-=======
-      - run: echo "hello wooooooorld. The weather outside is frightening!!"
->>>>>>> 273373d07a2159874666fd4b7f3a7528e699e6e5
